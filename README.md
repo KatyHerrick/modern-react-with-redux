@@ -1,7 +1,7 @@
 # Modern React with Redux
 (mid-late 2020)
 
-A collection of projects from Stephen Grider's Udemy Course: [Modern React with Redux](https://www.udemy.com/course/react-redux).
+A collection of projects from Stephen Grider's Udemy Course: [Modern React with Redux](https://www.udemy.com/course/react-redux). Screenshots are available in individual project READMEs. Each project is runnable with the command `yarn start` and will run at `localhost:3000`, but some projects may require setting up a developer account to access certain APIs.
 
 ## Projects
 
