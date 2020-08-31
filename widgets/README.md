@@ -1,7 +1,10 @@
 ## Widgets
 A gallery of 4 widgets to demonstrate functional components with React hooks.
 - The Search widget uses the open Wikipedia API.
+- The Translate widget uses the paid Google Translate API.
 Styled with SemanticUI.
+
+To run this project, one must replace the API_KEY in `src/components/Convert.js` with an api key from the Google Translate API for [Google Developers](http://console.developers.google.com/).
 
 ## Screenshots
 
@@ -13,6 +16,9 @@ Styled with SemanticUI.
 
 ### Dropdown widget
 ![Image of Dropdown widget](./screenshots/dropdown.png)
+
+### Translate widget
+![Image of Translate widget](./screenshots/translate.png)
 
 ---
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
