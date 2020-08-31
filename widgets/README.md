@@ -1,5 +1,5 @@
 ## Widgets
-A gallery of 4 widgets to demonstrate functional components and React hooks.
+A gallery of 4 widgets to demonstrate functional components with React hooks.
 - The Search widget uses the open Wikipedia API.
 Styled with SemanticUI.
 
@@ -10,6 +10,9 @@ Styled with SemanticUI.
 
 ### Search widget
 ![Image of Search widget](./screenshots/search.png)
+
+### Dropdown widget
+![Image of Dropdown widget](./screenshots/dropdown.png)
 
 ---
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
