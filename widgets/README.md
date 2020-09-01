@@ -1,5 +1,5 @@
 ## Widgets
-A gallery of 4 widgets to demonstrate functional components with React hooks.
+A gallery of 4 widgets to demonstrate functional components with React hooks. Navigation is homespun—no React router necessary.
 - The Search widget uses the open Wikipedia API.
 - The Translate widget uses the paid Google Translate API.
 Styled with SemanticUI.
