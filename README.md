@@ -13,3 +13,4 @@ A collection of projects from Stephen Grider's Udemy Course: [Modern React with 
 | Videos | html-react-parser, iframes, YouTube API, SemanticUI grid system |
 | Widgets | React Fragments, useState(), useEffect(), and useRef() hooks, Wikipedia API, dangerouslySetInnerHTML, debouncing, event listeners, Google Translate API, DIY routing/navigation |
 | Videos-Hooks | custom hooks |
+| Songs | Redux |
