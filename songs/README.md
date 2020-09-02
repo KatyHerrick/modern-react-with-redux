@@ -1,4 +1,5 @@
 ## Songs
+An extremely simple app that demonstates how state is passed through react-redux's Provider component and connect() function. Styled with SemanticUI.
 
 ## Screenshots
 ![Image of Songs project](./screenshots/songs.png)
