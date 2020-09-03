@@ -14,4 +14,4 @@ A collection of projects from Stephen Grider's Udemy Course: [Modern React with 
 | Widgets | React Fragments, useState(), useEffect(), and useRef() hooks, Wikipedia API, dangerouslySetInnerHTML, debouncing, event listeners, Google Translate API, DIY routing/navigation |
 | Videos-Hooks | custom hooks |
 | Songs | redux, react-redux |
-| Blog | redux middleware, redux-thunk, async actions |
+| Blog | redux middleware, redux-thunk, async actions, ownProps |
