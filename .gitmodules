@@ -1,0 +1,3 @@
+[submodule "something-twitchy"]
+	path = something-twitchy
+	url = https://github.com/KatyHerrick/something-twitchy
