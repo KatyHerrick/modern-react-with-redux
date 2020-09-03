@@ -1,3 +1,9 @@
+## Blog
+A plain, non-interactive app that retrieves data from the [JSONPlaceholder API](http://jsonplaceholder.typicode.com/) and displays it. An exercise in using Redux and React-Redux to manage state
+
+## Screenshots
+![Image of Blog project](./screenshots/blog.png)
+---
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
