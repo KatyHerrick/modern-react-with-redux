@@ -16,3 +16,4 @@ A collection of projects from Stephen Grider's Udemy Course: [Modern React with 
 | Songs | redux, react-redux |
 | Blog | redux middleware, redux-thunk, async actions, ownProps, memoization, lodash |
 | Something Twitchy | react-router/react-router-dom, Google OAuth, action types, redux-devtools-extension, redux-form, json-server, RESTful APIs, React Portals, programmatic navigation, event propogation, router switches, rtmpserver |
+| Translate-Context | React context |
